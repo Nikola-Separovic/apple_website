@@ -9,17 +9,17 @@ A **responsive** and **interactive** website built with **React**, **Three.js**,
 Here are some visuals to demonstrate the functionality of the app:
 
 ### **Hero Section**
-![Hero Section](./OneDrive/Radna površina/apple_website/screenshots/hero-section.png)
-![Hero Section](./OneDrive/Radna površina/apple_website/screenshots/screenshots/highlights-section.png)
+![Hero Section](./OneDrive/Radna%20površina/apple_website/screenshots/hero-section.png)
+![Hero Section](./OneDrive/Radna%20površina/apple_website/screenshots/highlights-section.png)
 
 ### **3D iPhone Model**
-![3D Model](./OneDrive/Radna površina/apple_website/screenshots/screenshots/3d-model.png)
-![3D Model](./OneDrive/Radna površina/apple_website/screenshots/screenshots/HowItWorks.png)
+![3D Model](./OneDrive/Radna%20površina/apple_website/screenshots/3d-model.png)
+![3D Model](./OneDrive/Radna%20površina/apple_website/screenshots/HowItWorks.png)
 
 
 ### **Smooth Animations**
-![Smooth Animations](./OneDrive/Radna površina/apple_website/screenshots/screenshots/animations.png)
-![Smooth Animations](./OneDrive/Radna površina/apple_website/screenshots/screenshots/animations2.png)
+![Smooth Animations](./OneDrive/Radna%20površina/apple_website/screenshots/animations.png)
+![Smooth Animations](./OneDrive/Radna%20površina/apple_website/screenshots//animations2.png)
 
 ---
 
